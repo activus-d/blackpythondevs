@@ -16,4 +16,4 @@ Changes to this guide should be discussed and made using a simple [GitHub workfl
 
 Contributions follow that of our standard [CONTRIBUTING](https://github.com/BlackPythonDevs/.github/blob/main/CONTRIBUTING.md) guide.
 
-Ensure that you follow our [Style Guide](./style_guide.md) when contributing to this guide.  
+Ensure that you follow our [Style guide](./style_guide.md) when contributing to this guide.  
